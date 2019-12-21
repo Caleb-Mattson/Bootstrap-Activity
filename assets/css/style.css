@@ -19,6 +19,7 @@ body {
     padding-top: 10px;
     font-weight: bold;
     font-size: 16px;
+    border-bottom: solid black 1px;
 }
 
 #aboutMe {
@@ -41,4 +42,6 @@ body {
 .NPH {
     padding: 20px;
 }
+
+
 
